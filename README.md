@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### This is 𝓣𝓮𝓷 𝓸'𝓬𝓵𝓸𝓬𝓴
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Tenlivk)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Ten-o)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Tenlivk@gmail.com)
 
 Welcome to my Github page! I am 𝓣𝓮𝓷 𝓸'𝓬𝓵𝓸𝓬𝓴
@@ -22,7 +22,7 @@ Welcome to my Github page! I am 𝓣𝓮𝓷 𝓸'𝓬𝓵𝓸𝓬𝓴
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Tenlivk&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Ten-o&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
