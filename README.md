@@ -11,12 +11,9 @@ Welcome to my Github page! I am 𝓣𝓮𝓷 𝓸'𝓬𝓵𝓸𝓬𝓴
 
 #### 🌱 Things I am currently working on: 
 - Learning Python
-- Complete a script without copy
-- Complete a JD script independently
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Complete a JD script independently
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
