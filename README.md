@@ -1,7 +1,6 @@
 
 
 <div align="center">
-  [README.md](README.md)
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://www.ouklc.com/">
