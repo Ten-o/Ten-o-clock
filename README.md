@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  
+  [README.md](README.md)
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://www.ouklc.com/">
@@ -13,7 +13,11 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ten-o/lxfriday/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ten-o/lxfriday/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ten-o/lxfriday/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
